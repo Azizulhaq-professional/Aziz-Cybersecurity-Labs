@@ -25,3 +25,8 @@ This project implements an AI-based Intrusion Detection System to identify malic
 The model successfully detects malicious activity with high accuracy, demonstrating how AI can support SOC teams.
 ## Real-World Use Case
 This system can help security teams automatically detect intrusions and reduce response time.
+## Results
+
+The model achieved high accuracy in detecting malicious network traffic.
+
+![Model Accuracy](results.png)
