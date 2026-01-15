@@ -32,3 +32,5 @@ This system can help security teams automatically detect intrusions and reduce r
 The model achieved high accuracy in detecting malicious network traffic.
 
 ![Model Accuracy](Result_Accuracy.JPG)
+## Author
+Aziz Ul Haq
