@@ -22,7 +22,7 @@ This project documents vulnerability testing performed on DVWA using Kali Linux.
 - `Web_Application_Security_Scanner.pdf`
 - Screenshots folder  
 [Download Web Application Security Scanner](Web_Application_Security_Scanner.pdf)
-
+--
 [Download DVWA Vulnerability Report](dvwa-web-vulnerability-report.pdf)
 ### SQL Injection Result
 ![SQL Injection](sql_injection_success.png)
