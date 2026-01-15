@@ -22,6 +22,8 @@ This project implements an AI-based Intrusion Detection System to identify malic
 4. Evaluation and accuracy measurement
 
 ## Results
+## Author
+Aziz Ul Haq
 The model successfully detects malicious activity with high accuracy, demonstrating how AI can support SOC teams.
 ## Real-World Use Case
 This system can help security teams automatically detect intrusions and reduce response time.
