@@ -29,3 +29,5 @@ This project documents vulnerability testing performed on DVWA using Kali Linux.
 ![XSS Alert](xss_alert_box.png)
 ### Command Injection
 ![Command Injection](command_injection_whoami.png)
+## Author
+Aziz Ul Haq
