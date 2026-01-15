@@ -21,3 +21,11 @@ This project documents vulnerability testing performed on DVWA using Kali Linux.
 - `dvwa-web-vulnerability-report.pdf`
 - `Web_Application_Security_Scanner.pdf`
 - Screenshots folder  
+[Download Web Application Security Scanner](Web_Application_Security_Scanner.pdf)
+[Download DVWA Vulnerability Report](dvwa-web-vulnerability-report.pdf)
+### SQL Injection Result
+![SQL Injection](sql_injection_success.png)
+### XSS Alert Box
+![XSS Alert](xss_alert_box.png)
+### Command Injection
+![Command Injection](command_injection_whoami.png)
