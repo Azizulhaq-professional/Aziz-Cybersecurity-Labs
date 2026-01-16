@@ -14,9 +14,10 @@ A Python-based SOC project that detects brute-force attacks and simulates automa
 ## 🪜 Step-by-Step Execution
 ### 📁 Project Structure
 ![Project Structure](screenshots/project_structure.png)
-### 📄 Authentication Log File (`auth_logs.txt`) Simulated login attempts from various IPs.
-![Auth Logs](screenshots/auth_logs.PNG) ###
-🧠 Python Detection Script (`detector.py`) Threshold-based logic to detect brute force attacks.
+### 📄 Authentication Log File (`auth_logs.txt`)
+Simulated login attempts from various IPs.
+![Auth Logs](screenshots/auth_logs.PNG)
+### 🧠 Python Detection Script (`detector.py`) Threshold-based logic to detect brute force attacks.
 ![Detector Script](screenshots/Detector_Script.png)
 ### ▶️ Script Execution Running the detection script and observing alerts.
 ![Script Execution](screenshots/script_execution.png)
