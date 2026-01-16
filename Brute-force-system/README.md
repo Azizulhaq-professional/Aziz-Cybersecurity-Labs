@@ -13,7 +13,7 @@ A Python-based SOC project that detects brute-force attacks and simulates automa
 ---
 ## 🪜 Step-by-Step Execution
 ### 📁 Project Structure
-![Project Structure](screenshots/project_structure.png)
+![Project Structure](project_structure.png)
 ### 📄 Authentication Log File (`auth_logs.txt`)
 Simulated login attempts from various IPs.
 ![Auth Logs](auth_logs.PNG)
