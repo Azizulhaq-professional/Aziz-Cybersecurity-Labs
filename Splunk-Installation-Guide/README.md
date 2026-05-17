@@ -49,7 +49,7 @@ This lab provides a **visual reference** for troubleshooting and replicating Spl
 
 ## 🔗 Related Labs
 - [01_Vulnerability_Assessment_Lab](../01_Vulnerability_Assessment_Lab)  
-- [05_SOC_SIEM_Incident_Detection](../05_SOC_SIEM_Incident_Detection)  
+- [05_SOC_SIEM_Incident_Detection](../05_SOC_SIEM_Incident_Detection_System)  
 - [AI-Intrusion-Detection-System](../AI-Intrusion-Detection-System)
 
 ---
